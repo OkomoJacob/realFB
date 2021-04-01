@@ -2,10 +2,11 @@
 
 Building my own Social Media Platform, from Scratch
 #### Tech tracks, tools used in this Build
- - React + React HOOKs
- - React context API -> REDUX Pattern
- - MATERIAL UI
- - FLEXBOX
- - Firebase's Firestore Realtime DB
- - FIrebase Hosting platform
- - Firebase Google Authentication (FULL LOGIN)
+ - [React](link) + [React HOOKs](link)
+ - [React context API]() this will be used to capture the usr's Details when they login -> REDUX Pattern
+ - [MATERIAL UI]() -For nice and cool icons
+ - [FLEXBOX](link) -To make our whole design responsive
+ - [Firebase's Firestore](link) Realtime DB
+ - [Firebase Hosting platform](link)
+ - [Firebase Google Authentication](link) (FULL LOGIN)
+ - [React Flip Move](link) - For animations
