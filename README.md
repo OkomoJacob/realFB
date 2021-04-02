@@ -10,3 +10,6 @@ Building my own Social Media Platform, from Scratch
  - [Firebase Hosting platform](link)
  - [Firebase Google Authentication](link) (FULL LOGIN)
  - [React Flip Move](link) - For animations
+
+### Builds and Commands
+`npx create-react-app realFB` To create your new react aapp.
