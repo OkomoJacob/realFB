@@ -1,6 +1,6 @@
 import { Avatar } from '@material-ui/core'
 import React from 'react'
-import "./Sidebar.css"
+import "./SidebarRow.css"
 
 function SidebarRow({ src, Icon, title }) {
     return (
@@ -8,7 +8,8 @@ function SidebarRow({ src, Icon, title }) {
             {/* If there is src prop, render in the Avator as the src */}
             {src && <Avatar src={src} />}
             {Icon && <Icon />}
-            <p>{ title }</p>
+
+            <h4>{ title }</h4>
         </div>
     )
 }
