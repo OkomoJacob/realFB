@@ -5,9 +5,9 @@ function StoryReel() {
     return (
         <div className = "storyReel">
             <Story
-                image="https://scontent.fnbo8-1.fna.fbcdn.net/v/t1.6435-9/168400521_2825248867716262_192120358717204174_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=5b7eaf&_nc_ohc=roM2q_ml0h8AX_2ORhI&_nc_oc=AQmasPLAJ1fBoUJw9I302TtsJRiNaonUPQyxFKdIr_aLBhwMJfWbtp27zhbBcg1XcPw&_nc_ht=scontent.fnbo8-1.fna&oh=0d32003cf7df5cadbd6b8451efe68d79&oe=608C825F"
-                profileSrc="https://media-exp1.licdn.com/dms/image/C5603AQEM4TnekNpAfA/profile-displayphoto-shrink_200_200/0/1615021495534?e=1622678400&v=beta&t=6OIUonDR1D3hdHE8eZBtzvxH1Evjw34ktPOlkIsryCs"
-                title="Dr. Kilimo"
+                image="https://scontent.fnbo8-1.fna.fbcdn.net/v/t1.6435-9/140088233_1769633466531689_8613817966349408708_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=8bfeb9&_nc_ohc=2EFyl8ooC3wAX-0WrOM&_nc_ht=scontent.fnbo8-1.fna&oh=b28a7339fca884eecdf3843aa6147688&oe=608F31C3"
+                profileSrc="https://scontent.fnbo8-1.fna.fbcdn.net/v/t1.6435-9/46814803_1104962379665471_4429017881052708864_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=IMHEKMWAC2kAX8hS5wt&_nc_ht=scontent.fnbo8-1.fna&oh=fcd9c8dff5dca94b27466cc260c89b57&oe=608F71E9"
+                title="Ake Emmanuel"
             />
             <Story
                 image="https://scontent.fnbo8-1.fna.fbcdn.net/v/t1.6435-9/168781029_2818691198460217_53101214645968915_n.jpg?_nc_cat=106&ccb=1-3&_nc_sid=5b7eaf&_nc_ohc=9j1pan6OPpcAX__Kqep&_nc_ht=scontent.fnbo8-1.fna&oh=d0cd081eb5f6955f61c0489a7e48a80b&oe=608DCB39"
