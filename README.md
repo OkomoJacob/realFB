@@ -1,4 +1,12 @@
 ## Sample realFB Prototype
+<hr >
+
+[![image](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size](https://img.shields.io/github/repo-size/OkomoJacob/realFB?color=green-yellow&logo=github&logoColor=blue) ![GitHub language count](https://img.shields.io/github/languages/count/OkomoJacob/realFB?logo=visual-studio-code) ![GitHub last commit](https://img.shields.io/github/last-commit/OkomoJacob/realFB?style=plastic&color=brightgreen) 
+![Forks](https://img.shields.io/github/forks/OkomoJacob/realFB?style=social) ![APM](https://img.shields.io/apm/dm/vim-mode) ![shields](https://img.shields.io/opencollective/sponsors/0) ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens) ![GitHub top language](https://img.shields.io/github/languages/top/okomojacob/realFB)
+
+#### Find Your Developers
+[![image](https://img.shields.io/twitter/follow/okomojacob?style=social)](https://twitter.com/okomojacob)
 
 Building my own Social Media Platform, from Scratch
 #### Tech tracks, tools used in this Build
