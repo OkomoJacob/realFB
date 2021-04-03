@@ -24,8 +24,8 @@ export default function Header() {
                     <input type="text" />
                 </div>
             </div>
-            <div className="header__middle">
-                <div className="header_option">
+            <div className="header__center">
+                <div className="header__option">
                     <HomeIcon fontSize = "large"/>
                 </div>
                 <div className="header__option">
