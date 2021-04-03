@@ -11,3 +11,17 @@
     transition: transform 100ms ease-in;
     cursor: pointer;
 }
+.story:hover{
+    transform: scale(1.08);
+}
+
+.story__avatar{
+    margin: 10px;
+    border: 5px solid #2e81f4;
+}
+.story > h4{
+    position: absolute;
+    bottom: 2px;
+    left: 20px;
+    color: white;
+}
