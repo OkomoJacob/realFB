@@ -12,6 +12,7 @@ import VideoLibraryIcon from '@material-ui/icons/VideoLibrary';
 function Sidebar() {
     return (
         <div className="sidebar">
+            
             <SidebarRow src="https://avatars.githubusercontent.com/u/56815027?v=4" title="OkomoJacob" />
             <SidebarRow Icon={LocalHospitalIcon} title="COVID-19 Information Center" />
             <SidebarRow Icon={EmojiFlagsIcon} title="Pages" />
