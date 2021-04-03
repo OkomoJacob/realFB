@@ -10,7 +10,7 @@ function App() {
       < Header />
       <div className="app__body">
         <Sidebar />
-      {/* Feed */}
+        <Feed />
       {/* Widgets */}
       </div>
     </div>
