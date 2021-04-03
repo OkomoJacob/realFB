@@ -6,7 +6,6 @@ function App() {
   return (
     // BEM Naming convention in CSS
     <div className="app">
-     <h1>Facebook</h1>
       {/* Header */}
       < Header />
      {/* App Body */}
