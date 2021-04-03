@@ -2,7 +2,7 @@
 
 Building my own Social Media Platform, from Scratch
 #### Tech tracks, tools used in this Build
- - [React](link) + [React HOOKs](link)
+ - [React](https://reactjs.org/) + [React HOOKs](https://reactjs.org/docs/hooks-intro.html)
  - [React context API]() this will be used to capture the usr's Details when they login -> REDUX Pattern
  - [MATERIAL UI]() -For nice and cool icons
  - [FLEXBOX](link) -To make our whole design responsive
