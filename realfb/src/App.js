@@ -6,12 +6,12 @@ function App() {
   return (
     // BEM Naming convention in CSS
     <div className="app">
-      {/* Header */}
       < Header />
-     {/* App Body */}
-      {/* Sidebar */}
+      <div className="app__body">
+        <Sidebar />
       {/* Feed */}
       {/* Widgets */}
+      </div>
     </div>
   );
 }
