@@ -21,7 +21,19 @@ export default function Header() {
             </div>
             <div className="header__middle">
                 <div className="header_option">
-                    <HomeIcon />
+                    <HomeIcon fontSize = "large"/>
+                </div>
+                <div className="header_option">
+                    <FlagIcon fontSize = "large"/>
+                </div>
+                <div className="header_option">
+                    <SubscriptionsOutlinedIcon fontSize = "large"/>
+                </div>
+                <div className="header_option">
+                    <StorefrontOutlinedIcon fontSize = "large"/>
+                </div>
+                <div className="header_option">
+                    <SupervisedUserCircleIcon fontSize = "large"/>
                 </div>
             </div>
         
