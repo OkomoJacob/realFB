@@ -18,6 +18,7 @@ Building my own Social Media Platform, from Scratch
  - [Firebase Hosting platform](https://firebase.google.com/docs/firestore)
  - [Firebase Google Authentication](https://firebase.google.com/docs/auth) (FULL LOGIN)
  - [React Flip Move](https://joshwcomeau.github.io/react-flip-move/examples/#/?_k=3qe4wa) - For animations
+ - [IFrames](https://medium.com/@ryanseddon/rendering-to-iframes-in-react-d1cb92274f86) - For Live Feed data rendering and dynamic display of Data in Realtime.
 
 ### Builds and Commands
 `npx create-react-app realFB` To create your new react aapp.
