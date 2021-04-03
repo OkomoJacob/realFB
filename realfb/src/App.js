@@ -1,4 +1,5 @@
 import React from 'react';
+import Feed from './Feed';
 import './App.css';
 import Header from './Header';
 import Sidebar from './Sidebar';
